@@ -1,0 +1,5 @@
+pandas>=2.0
+requests>=2.31
+plotly>=5.15
+python-binance>=1.0.19
+python-dotenv>=1.0.0
